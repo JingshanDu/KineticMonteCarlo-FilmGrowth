@@ -9,3 +9,5 @@ Based on Metropolis–Hastings, a Markov chain Monte Carlo (MCMC) method.
 A 2-D potential field (Morse Potential) is assumed on the surface.
 
 Might be kind of limited, because this is only part of a college coursework.
+
+Useful information available in the report (https://github.com/SequoiaDu/KineticMonteCarlo-FilmGrowth/blob/master/DuJS_report.pdf), section 4 (in Chinese).
