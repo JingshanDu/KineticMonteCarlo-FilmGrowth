@@ -13,7 +13,7 @@ cutoff = 4;
 DistanceOfEquilibrium = 1;  % of two atoms
 E0 = 0.2;   % Equilibrium Energy
 Estep = 10; % The kinect energy of disposed atoms (by steps)
-Esup = -10; % Energy due to the support
+Esup = -0.2; % Energy due to the support
 StepToSave = [100 400 700 1000 4000 7000];savei=1;
 
 T = 300;    % Kelvin
